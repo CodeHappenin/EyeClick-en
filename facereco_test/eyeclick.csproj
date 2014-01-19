@@ -120,7 +120,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Resources\intel_pc_sdk_runtime_ia32_7383.msi" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\click.wav" />
@@ -149,9 +148,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cameraerror-en.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dotNetFx40_Full_setup.exe" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\eyeclick1.jpg" />
