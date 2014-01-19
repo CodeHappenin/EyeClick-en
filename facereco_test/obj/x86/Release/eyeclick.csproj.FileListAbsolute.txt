@@ -1,0 +1,16 @@
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\bin\Release\EyeClick.exe.config
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\bin\Release\EyeClick.exe.manifest
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\bin\Release\EyeClick.application
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\bin\Release\EyeClick.exe
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\bin\Release\EyeClick.pdb
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\bin\Release\libpxcclr.dll
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.FirstTimeRun.resources
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.Main.resources
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.Properties.Resources.resources
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.exe.manifest
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.application
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.exe
+C:\Users\computer\Documents\Visual Studio 2010\Projects\eyeclick-en\facereco_test\obj\x86\Release\EyeClick.pdb
