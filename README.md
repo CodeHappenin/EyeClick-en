@@ -1,4 +1,8 @@
-EyeClick-en
+EyeClick
 ===========
 
-The EyeClick, perform a click while blinking, an application aimed to help people with psychomotor disablities like cerebral palsy.
+
+![Image not found](http://codehappen.in/img/eyeclick.jpg)
+
+This is the GitHub page for the project Kosas (http://codehappen.in/page/project/eyeclick).  
+Esta es la página de GitHub para el proyecto Kosas (http://codehappen.in/page/project/eyeclick).
